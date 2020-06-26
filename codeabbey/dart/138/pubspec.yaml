@@ -1,0 +1,3 @@
+name: "test"
+dependencies:
+  number_display: ^2.0.1
